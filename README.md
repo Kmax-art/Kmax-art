@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kmax-art
 - 👀 I’m interested in Theoretical Physics, Machine Learning, Quantum Computation
-- 🌱 I’m currently learning Machine Learning and Quantum Computing
 - 💞️ I’m looking to collaborate on Quantum Computation and Quantum Algorithms related projects
 - 📫 How to reach me kallolmax@gmail.com
 
