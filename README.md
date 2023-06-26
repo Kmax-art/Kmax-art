@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Kmax-art
-- 👀 I’m interested in Theoretical Physics, Machine Learning, Quantum Computation
-- 💞️ I’m looking to collaborate on Quantum Computation and Quantum Algorithms related projects
+- 👋 Hi, I’m Kallol Sen.
+- Presently Post Doctoral Research Fellow @ ICTP-SAIFR, Sao Paulo, Brazil.
+- 👀 I’m interested in Theoretical Physics, Machine Learning, Quantum Computation.
+- 💞️ I’m looking to collaborate on Quantum Computation and Quantum Algorithms related projects.
 - 📫 How to reach me kallolmax@gmail.com
 
 <!---
